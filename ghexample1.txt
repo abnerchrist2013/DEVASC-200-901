@@ -2,3 +2,4 @@ This is some example to work with
 this is a change made from my local repository
 some more features added from my local repository
 blah blah blah
+last last feature
